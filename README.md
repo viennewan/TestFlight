@@ -164,7 +164,9 @@
 
 ​		
 
-​		Choose Automatically manage signing > Next![image](images/Screenshot24.png)
+​		Choose Automatically manage signing > Next
+
+![image](images/Screenshot24.png)
 
 
 
@@ -172,17 +174,17 @@ Click Upload
 
 ![image](images/Screenshot25.png)
 
-1. In browser, in App Store Connect, 
+8. In browser, in App Store Connect, 
 
    a. Click My Apps > click my newly created app > Click TestFlight > Click Test Information on the left(A yellow question mark should appear next to it) > Fill in Beta App Description, Feedback Email, Marketing URL, Privacy Policy URL, First Name, Last Name, Phone number, Email, Review Notes and License Agreement > no need to tick Sign-in required > Save > the yellow question mark should disappear
 
-   ![image](images/Screenshot26.png)
+![image](images/Screenshot26.png)
 
-   b. Click iOS on the left > click Manage behind "Missing Compliance" > Choose No for the encryption question > Click Start Internal Testing
+b. Click iOS on the left > click Manage behind "Missing Compliance" > Choose No for the encryption question > Click Start Internal Testing
 
-   c. If apple users were not added, click **Users and Access** on top > (+)> Fill in info> Invite > Wait apple user accept through email
+c. If apple users were not added, click **Users and Access** on top > (+)> Fill in info> Invite > Wait apple user accept through email
 
-   c. Click App Store Connect Users on the left > (+) > tick users > Add
+d. Click App Store Connect Users on the left > (+) > tick users > Add
 
-   
+
 
