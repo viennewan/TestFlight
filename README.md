@@ -188,3 +188,31 @@ d. Click App Store Connect Users on the left > (+) > tick users > Add
 
 
 
+## Reference
+
+https://www.youtube.com/watch?v=MFD4snJfBaw&feature=emb_rel_pause
+
+
+
+## Appendix
+
+To be able to build successfully in Xcode, app icon png in /Assets folder must be non Alpha. To verify this, please double click the .png to open the png picture. Then, choose File > Export. Then uncheck this Alpha box and save the png in same place.
+
+![image](images/Screenshot27.png)
+
+Then under ScoreApp path, run these 3 commands
+
+```bash
+flutter clean
+
+flutter pub get
+
+flutter pub run flutter_launcher_icons:main
+```
+
+Then run the app with command
+
+```bash
+flutter run
+```
+
