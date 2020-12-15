@@ -122,6 +122,8 @@
 
    e. Click Signing & Capabilities, choose Team with correct Apple Developer Account> Bundle Identifier should be already same as what you have filled > show no error
 
+   For app name, click "Info" tab and edit value of "Bundle name" then hit enter.
+
    ![image](images/Screenshot17.png)
 
    f. Check Xcode Run
